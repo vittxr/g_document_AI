@@ -1,0 +1,5 @@
+creds.json
+.env
+venv 
+test_files
+results
